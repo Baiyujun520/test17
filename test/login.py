@@ -9,3 +9,6 @@ def three():
 
 def four():
     print('第四个功能正在完成')
+
+def five():
+    pass
