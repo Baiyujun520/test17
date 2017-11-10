@@ -6,3 +6,6 @@ def two():
 
 def three():
     print('第三个功能已经实现')
+
+def four():
+    print('第四个功能正在完成')
