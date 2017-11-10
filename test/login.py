@@ -15,3 +15,6 @@ def five():
 
 def new():
     print('新功能上线')
+
+def end():
+    print('项目成功完成，成功上线')
