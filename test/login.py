@@ -12,3 +12,6 @@ def four():
 
 def five():
     pass
+
+def new():
+    print('新功能上线')
